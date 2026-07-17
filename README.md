@@ -5,6 +5,7 @@ A simple repository for storing and reusing PowerShell scripts you have already 
 ## Structure
 
 - `/scripts` - reusable PowerShell scripts
+  - `/scripts/KACE` - scripts for KACE Systems Management Appliance (SMA) and related tools
 
 ## Current scripts
 
